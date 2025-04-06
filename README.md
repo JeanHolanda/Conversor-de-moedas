@@ -9,4 +9,4 @@ Tecnologias utilizadas:
 -  JAVASCRIPT
 <br>
 <br>
-<img src= "https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/842e82460ec95b87e2a8d1727acb81cf476d559c/assets/Resultado.png">
+<img src= "https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-dolar.png">
