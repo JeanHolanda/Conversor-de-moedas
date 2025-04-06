@@ -10,5 +10,6 @@ Tecnologias utilizadas:
 <br>
 <br>
 <img src= "https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-dolar.png"> 
-<img src="https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-euro.png">
-<img src="https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-libra.png">
+<img src= "https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-euro.png">
+<img src= "https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-libra.png">
+<img src= "https://raw.githubusercontent.com/JeanHolanda/Conversor-de-moedas/0b6eedcbdc1f3425ab51c1d1c5c2246696b1b7ef/assets/converted-bitcoin.png">
