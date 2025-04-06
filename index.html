@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <title>DevClub - Convert Money</title>
+</head>
+
+<body>
+    <img class="logo" src="./assets/logo.gif" alt="logo-converty-money">
+    <main>
+        <label>Converter <b>de</b></label>
+        <select class="first-select">
+            <option value="real">R$ Real brasileiro</option>
+        </select>
+
+        <label>Converter <b>para</b></label>
+        <select class="second-select">
+            <option value="dolar">US$ Dólar americano</option>
+            <option value="euro">€ Euro</option>
+            <option value="libra">£ Libra</option>
+            <option value="bitcoin">Bitcoin</option>
+        </select>
+
+        <label><b>Valor</b></label>
+        <input class="input-currency" placeholder="0,00">
+
+        <button class="convert-button">Converter</button>
+
+        <section>
+            <div>
+                <img class="flag" id="first-flag" src="./assets/real.png" alt="flag-of-brazil">
+                <p class="currency" id="first-currency-paragraph">Real</p>
+                <p class="currency-value-one">R$ 0,00</p>
+            </div>
+
+            <img class="arrow" src="./assets/arrow.png" alt="arrow">
+
+            <div>
+                <img class="flag" id="second-flag" src="./assets/dolar.png" alt="flag-of-usa">
+                <p class="currency" id="second-currency-paragraph">Dólar americano</p>
+                <p class="currency-value-two">US$ 0,00</p>
+            </div>
+        </section>
+    </main>
+</body>
+<script src="./script.js"></script>
+</html>
